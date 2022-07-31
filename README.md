@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Oğuz Kırbıyık
 
+I like to learn new things. I share the codes I learned and wrote on my github profile. Recently, I have been developing software in the field of bot software and finance.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 ### Skills
 
