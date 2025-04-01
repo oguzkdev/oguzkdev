@@ -31,4 +31,6 @@ I like to learn new things. I share the codes I learned and wrote on my github p
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzkdev&show_icons=true)  
 
+![Oguzkirbiyik's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzkirbiyik&show_icons=true&count_private=true&theme=dark)
+
 
